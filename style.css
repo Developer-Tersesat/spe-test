@@ -1,0 +1,20 @@
+body{
+    background-color: darkgray;
+
+}
+.container{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    overflow: hidden;
+}
+.item{
+    width: 700px;
+    height: 500px;
+    background-color: black;
+    border: 10px green solid;
+    border-radius: 20px;
+    transform: rotate(-35deg);
+    position: relative;
+    margin-top: -350px;
+}
